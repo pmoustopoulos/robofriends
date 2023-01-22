@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is deployed using GitHub Pages: https://pmoustopoulos.github.io/robofriends/
 
 ## Available Scripts
 
